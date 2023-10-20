@@ -3,7 +3,7 @@
 # İçindekiler 
 
 
-# Guard Sistemleri
+### Guard Sistemleri
 <details>
 
 - [x] Whitelist
@@ -12,7 +12,7 @@
 
 </details>
 
-# Stat Sistemleri
+### Stat Sistemleri
 <details>
   
 - [x] Yeni Görev Sistemi
