@@ -11,6 +11,6 @@ Sizlere __Sohbet__ sunucuları için yapmış olduğum botun görsellerini payla
 9. Kurulum bittikten sonra cmd'ye __pm2 start__ yazın ve botu başlatın.
 
 # 📝 Küçük Bir Not ;
-Bu botu sunucunuza kurmak için benle iletişime geçiniz.
+> Bu botu sunucunuza kurmak için benle iletişime geçiniz.
 
 # 📷 Görseller
