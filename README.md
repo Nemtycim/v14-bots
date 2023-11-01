@@ -22,5 +22,9 @@ Sizlere __Sohbet__ sunucuları için yapmış olduğum botun görsellerini payla
 ![image](https://github.com/Nemtycim/v14-bots/assets/101521169/4c7b6e08-63b2-40c2-9d78-1e23ddf24244)
 ![image](https://github.com/Nemtycim/v14-bots/assets/101521169/a063fa06-2d7c-4646-a1e4-c1cdf6ddf26c)
 ![image](https://github.com/Nemtycim/v14-bots/assets/101521169/9272c61b-5a79-4a9a-a172-5c6e3f28345f)
+![image](https://github.com/Nemtycim/v14-bots/assets/101521169/febb42c1-f026-4f12-bc9f-d374a5c63339)
+![image](https://github.com/Nemtycim/v14-bots/assets/101521169/f9febf93-7d44-4028-8ecc-3ffd29718756)
+![image](https://github.com/Nemtycim/v14-bots/assets/101521169/8df4bfa6-abf2-41b9-8478-5281bcf2a760)
+![image](https://github.com/Nemtycim/v14-bots/assets/101521169/55ffe329-1843-499a-8390-437b927d1bdd)
 
 </details>
