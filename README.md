@@ -22,5 +22,22 @@
 
 </details>
 
+### Kayıt Sistemleri
+<details>
+  
+- [x] Kolay Kayıt Sistemi
+- [x] Geçmiş İsimler
+- [x] Hoşgeldin Mesajı
+- [x] Hesap Kontrol Sistemi
+
+</details>
+
+### Moderasyon Sistemleri
+<details>
+  
+- [x] Kolay Kurulum Sistemleri
+- [x] Cezalandırma Sistemleri
+- [x] Yönetim Sistemi
+</details>
 
 # Bot Resimleri (Pek YAKINDAAAA)
