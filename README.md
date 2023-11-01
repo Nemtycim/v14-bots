@@ -9,3 +9,8 @@ Sizlere __Sohbet__ sunucuları için yapmış oldugum botun görsellerini payla�
 7. Sonra klasörün içerisinde bir __powershell__ ya da __cmd__ penceresi açın.
 8. __npm install__ yazarak tüm modülleri kurun.
 9. Kurulum bittikten sonra cmd'ye __pm2 start__ yazın ve botu başlatın.
+
+# Küçük Bir Not ;
+Bu botu sunucunuza kurmak için benle iletişime geçiniz.
+
+# Görseller 📷
