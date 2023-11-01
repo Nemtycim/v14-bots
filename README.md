@@ -13,4 +13,4 @@ Sizlere __Sohbet__ sunucuları için yapmış oldugum botun görsellerini payla�
 # 📝 Küçük Bir Not ;
 Bu botu sunucunuza kurmak için benle iletişime geçiniz.
 
-# Görseller 📷
+# 📷 Görseller
