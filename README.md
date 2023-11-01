@@ -1,5 +1,5 @@
 # 🎉 Merhabalar!
-Sizlere __Sohbet__ sunucuları için yapmış oldugum botun görsellerini paylaşıyorum. Botları aşşağıdaki görsellerden bakabilirsiniz.
+Sizlere __Sohbet__ sunucuları için yapmış olduğum botun görsellerini paylaşıyorum. Botları aşşağıdaki görsellerden bakabilirsiniz.
 # 🎀 Kurulum 
 1. İlk önce **Node.js** indirin!
 3. Daha sonra bir **MongoDB** hesabı oluşturun ve __connection__ linki alın.
