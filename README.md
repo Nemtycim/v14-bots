@@ -17,6 +17,7 @@ Sizlere __Sohbet__ sunucuları için yapmış olduğum botun görsellerini payla
 
 ### Client Komutları
 <details>
+  
 ![image](https://github.com/Nemtycim/v14-bots/assets/101521169/e40a8b78-0051-4727-9410-15f1166e807f)
 ![image](https://github.com/Nemtycim/v14-bots/assets/101521169/4c7b6e08-63b2-40c2-9d78-1e23ddf24244)
 ![image](https://github.com/Nemtycim/v14-bots/assets/101521169/a063fa06-2d7c-4646-a1e4-c1cdf6ddf26c)
