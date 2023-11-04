@@ -32,5 +32,7 @@ Sizlere __Sohbet__ sunucuları için yapmış olduğum botun görsellerini payla
 
 ### Voucher
 <details>
+  
 ![image](https://github.com/Nemtycim/v14-bots/assets/101521169/b54823db-4594-45f1-9251-8027a2ef5899)
+
 </details>
