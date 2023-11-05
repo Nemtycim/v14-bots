@@ -35,5 +35,6 @@ Sizlere __Sohbet__ sunucuları için yapmış olduğum botun görsellerini payla
   
 ![image](https://github.com/Nemtycim/v14-bots/assets/101521169/b54823db-4594-45f1-9251-8027a2ef5899)
 ![image](https://github.com/Nemtycim/v14-bots/assets/101521169/3d4a5c1b-e2ea-4433-9f74-c5de6d4b31ef)
+![image](https://github.com/Nemtycim/v14-bots/assets/101521169/b21a7f8c-c2ec-4a64-9dfb-4484db715ba1)
 
 </details>
