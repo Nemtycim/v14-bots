@@ -17,24 +17,11 @@ Sizlere __Sohbet__ sunucuları için yapmış olduğum botun görsellerini payla
 
 ### Client
 <details>
-  
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/e40a8b78-0051-4727-9410-15f1166e807f)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/4c7b6e08-63b2-40c2-9d78-1e23ddf24244)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/a063fa06-2d7c-4646-a1e4-c1cdf6ddf26c)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/9272c61b-5a79-4a9a-a172-5c6e3f28345f)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/febb42c1-f026-4f12-bc9f-d374a5c63339)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/f9febf93-7d44-4028-8ecc-3ffd29718756)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/8df4bfa6-abf2-41b9-8478-5281bcf2a760)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/55ffe329-1843-499a-8390-437b927d1bdd)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/d13fa345-a4e3-46e8-9000-54ba380e9f9a)
+
+![image](https://github.com/Nemtycim/v14-bots/assets/101521169/8d2e61a3-ce57-4faf-a30a-49079302721b)
+![image](https://github.com/Nemtycim/v14-bots/assets/101521169/735e2e63-452e-4c66-a961-eb61d1703cbe)
+
 
 </details>
 
-### Voucher
-<details>
-  
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/b54823db-4594-45f1-9251-8027a2ef5899)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/3d4a5c1b-e2ea-4433-9f74-c5de6d4b31ef)
-![image](https://github.com/Nemtycim/v14-bots/assets/101521169/b21a7f8c-c2ec-4a64-9dfb-4484db715ba1)
 
-</details>
